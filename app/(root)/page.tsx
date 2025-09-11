@@ -145,7 +145,7 @@ const HomePage = () => {
               Why Choose <span className="gradient-text">MEDICURE</span>?
             </h2>
             <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-              We're committed to providing the highest quality dental instruments
+              We&apos;re committed to providing the highest quality dental instruments
               and exceptional service to professionals worldwide.
             </p>
           </div>
